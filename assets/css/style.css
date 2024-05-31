@@ -1,5 +1,5 @@
 /* assets/css/style.css */
-body {
+/* body {
     font-family: Arial, sans-serif;
     background-color: #f4f1de;
     color: #3d405b;
@@ -7,12 +7,12 @@ body {
 
 header, footer {
     background-color: rgba(61, 64, 91, 0.8); /* Slightly translucent */
-    color: #ffffff;
+    /* color: #ffffff;
     padding: 10px 0;
     border-radius: 10px; /* Rounded corners */
-}
+/* } */
 
-header {
+/* header {
     margin-bottom: 20px;
 }
 
@@ -23,7 +23,7 @@ footer {
 
 .initial-content {
     padding: 20px;
-}
+} */
 
 .profile-image {
     width: 150px; /* Adjust the width as needed */
@@ -33,7 +33,7 @@ footer {
     margin: 0 auto; /* Center the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
 }
-
+/* 
 h1, h2, h3, h4, h5, h6 {
     color: #3d405b;
 }
@@ -49,4 +49,4 @@ a:hover {
 
 .page__footer {
     padding-top: 20px;
-}
+} */
