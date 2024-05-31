@@ -1,30 +1,4 @@
 /* assets/css/style.css */
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f1de;
-    color: #3d405b;
-}
-
-header, footer {
-    background-color: rgba(61, 64, 91, 0.8); /* Slightly translucent */
-    /* color: #ffffff;
-    padding: 10px 0;
-    border-radius: 10px; /* Rounded corners */
-/* } */
-
-/* header {
-    margin-bottom: 20px;
-}
-
-footer {
-    margin-top: 20px;
-    text-align: center;
-}
-
-.initial-content {
-    padding: 20px;
-} */
-
 .profile-image {
     width: 150px; /* Adjust the width as needed */
     height: auto;
@@ -33,20 +7,5 @@ footer {
     margin: 0 auto; /* Center the image */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
 }
-/* 
-h1, h2, h3, h4, h5, h6 {
-    color: #3d405b;
-}
 
-a {
-    color: #e07a5f;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-.page__footer {
-    padding-top: 20px;
-} */
+/* Additional custom styles if necessary */
